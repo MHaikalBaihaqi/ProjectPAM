@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectPAM</string>
+    <string name="login">Login</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
